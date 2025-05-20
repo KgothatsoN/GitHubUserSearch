@@ -17,7 +17,6 @@ It retrieves and displays their profile information and top 5 repositories based
 1. Open the solution in Visual Studio.
 2. Make sure your main project targets .NET Framework 4.7.2 or 4.8.
 3. Restore NuGet packages if prompted.
-4. Set `Index` in `GitHubController` as the start page (Right-click > Set as Start Page).
 5. Run the application (Ctrl + F5).
 
 
