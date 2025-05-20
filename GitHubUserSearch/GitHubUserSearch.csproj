@@ -146,7 +146,6 @@
     </Compile>
     <Compile Include="Interfaces\IGitHubService.cs" />
     <Compile Include="Models\GitHubRepo.cs" />
-    <Compile Include="Models\GitHubSearchViewModel.cs" />
     <Compile Include="Models\GitHubUser.cs" />
     <Compile Include="Models\GitHubViewModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -178,6 +177,7 @@
     <Content Include="Scripts\bootstrap.esm.min.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
+    <Content Include="README.md" />
     <None Include="Scripts\jquery-3.7.0.intellisense.js" />
     <Content Include="Scripts\jquery-3.7.0.js" />
     <Content Include="Scripts\jquery-3.7.0.min.js" />
